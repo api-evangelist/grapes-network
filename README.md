@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Grapes is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by multicoin-capital) and added to the network as a stub for full-pipeline profiling.
-- https://grapes.network
+Grapes (operating as Grape DAO) is a Solana‑based platform that provides on‑chain identity, reputation, access control, and governance primitives for decentralized communities. It enables developers to integrate verifiable reputation scores, permissioned access, and community voting mechanisms into their dApps, leveraging the security and composability of the Solana blockchain.
+
+**Areas:** Identity · Reputation · Access Control · Governance · DAO Infrastructure · Discord Bots · Solana
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://grapes.network)
+- [Documentation](https://docs.grapes.network/)
+- [Getting started](https://docs.grapes.network/grape-network/quick-start-and-faq)
+- [GitHub](https://github.com/Grape-Labs)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/grapes-network/](https://apis.io/providers/grapes-network/).
